@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Stainless Steel Water Bottle",
+    "price": "$19.99",
+    "image": "https://via.placeholder.com/300x200?text=Water+Bottle",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "Bluetooth Headphones",
+    "price": "$49.99",
+    "image": "https://via.placeholder.com/300x200?text=Headphones",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "title": "Portable Phone Charger",
+    "price": "$29.99",
+    "image": "https://via.placeholder.com/300x200?text=Charger",
+    "link": "#"
+  }
+]
