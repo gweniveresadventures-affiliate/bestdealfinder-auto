@@ -1,0 +1,38 @@
+{
+  "kitchen": [
+    {
+      "name": "Cosori 12-in-1 Air Fryer",
+      "url": "https://www.amazon.com/s?k=Cosori+Air+Fryer&tag=discoverqua04-20",
+      "img": ""
+    },
+    {
+      "name": "Instant Pot Duo 7-in-1",
+      "url": "https://www.amazon.com/s?k=Instant+Pot+Duo&tag=discoverqua04-20",
+      "img": ""
+    },
+    {
+      "name": "KitchenAid Hand Mixer",
+      "url": "https://www.amazon.com/s?k=KitchenAid+Hand+Mixer&tag=discoverqua04-20",
+      "img": ""
+    }
+  ],
+  "tech": [
+    {
+      "name": "Apple AirPods Pro 2",
+      "url": "https://www.amazon.com/s?k=AirPods+Pro+2&tag=discoverqua04-20",
+      "img": ""
+    },
+    {
+      "name": "Anker PowerCore Portable Charger",
+      "url": "https://www.amazon.com/s?k=Anker+PowerCore&tag=discoverqua04-20",
+      "img": ""
+    }
+  ],
+  "beauty": [
+    {
+      "name": "CeraVe Moisturizing Lotion",
+      "url": "https://www.amazon.com/s?k=CeraVe+Moisturizing+Lotion&tag=discoverqua04-20",
+      "img": ""
+    }
+  ]
+}
